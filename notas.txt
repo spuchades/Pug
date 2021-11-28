@@ -1,0 +1,13 @@
+¿Que es Pug?
+Es un motor de plantillas de Node.js con el que seremos capaces de escribir código HTML de una sintaxis mucho más sencilla, 
+clara y directa, tanto a la hora de escribir como de leer y modificar. Entonces, Pug, permite utilizar archivos estáticos como plantillas, 
+enviar valores para reemplazar variables dentro de las mismas y transformar estos archivos en páginas HTML que se envían al cliente
+
+Primero que nada tener instalados por npm Express y Pug, creamos directorio base tal cual vemos en este proyecto, y a través del archivo 
+index.pug escribiremos nuestro código pug para que de manera automatica se genere el código html, para ello;
+
+    1. Corremos servidor
+    2. Añadimos contenido en archivo .pug
+    3. Ponemos en navegador el puerto configurado
+
+    Deberemos ver dicho codigo pug como si fuera html y que en nestro navegador efectivamente aparece como si fuera html
